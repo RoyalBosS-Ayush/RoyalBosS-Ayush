@@ -104,7 +104,7 @@
 
   <p>
     <a href="https://github.com/RoyalBosS-Ayush">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Munot's streak" src="https://streak-stats.demolab.com/?user=RoyalBosS-Ayush&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Munot's streak" src="https://streak-stats.demolab.com/?user=RoyalBosS-Ayush&theme=dracula&hide_border=true"/>
     </a>
   </p>
 

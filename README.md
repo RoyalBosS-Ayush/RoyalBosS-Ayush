@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header" width="100%"/>
 <a href="https://github.com/RoyalBosS-Ayush">
   <h1  align="center" style="color:#f75c7e;">
     Ayush Munot
@@ -116,6 +117,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ayush Munot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RoyalBosS-Ayush&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<img alt="Ayush Munot's Trophies" src="https://github-profile-trophy.vercel.app/?username=RoyalBosS-Ayush&theme=dracula&row=1&margin-w=5&no-frame=true" />
 
 </details>
 
